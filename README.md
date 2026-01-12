@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQEuHevCH3elxg/profile-displaybackgroundimage-shrink_350_1400/B4DZr9HpcmIAAY-/0/1765183233155?e=1766620800&v=beta&t=f3I08dUPWj8LO3ZL_JIg4bnQEs4V_5B3eaEZq5-_HxA"  />
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQEuHevCH3elxg/profile-displaybackgroundimage-shrink_350_1400/B4DZr9HpcmIAAY-/0/1765183233155?e=1769644800&v=beta&t=PHWfsfjoTKg-z-mEtYojJObGAjV8nLRa_gUVpFe0s_8"  />
 </div>
 
 ###
@@ -46,6 +46,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash30000/yash30000/output/pacman-contribution-graph-dark.svg">
