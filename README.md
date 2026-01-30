@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQEuHevCH3elxg/profile-displaybackgroundimage-shrink_350_1400/B4DZr9HpcmIAAY-/0/1765183233155?e=1769644800&v=beta&t=PHWfsfjoTKg-z-mEtYojJObGAjV8nLRa_gUVpFe0s_8"  />
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQEuHevCH3elxg/profile-displaybackgroundimage-shrink_350_1400/B4DZr9HpcmIAAY-/0/1765183233155?e=1771459200&v=beta&t=L2MbS7OKHeAWEn79pO62Lemw9d5vBrPVTfNnlCN7cxM"  />
 </div>
 
 ###
@@ -32,6 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 ###
@@ -47,12 +51,6 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash30000/yash30000/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash30000/yash30000/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yash30000/yash30000/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/yash30000/yash30000/output/snake.svg" alt="Snake animation" />
 
 ###
